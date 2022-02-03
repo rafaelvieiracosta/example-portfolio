@@ -44,6 +44,10 @@
     gap: 40px;
   }
 
+  .introducao p{
+    font-size: 1rem;
+  }
+
   .introducao h1{
     font-size: 2rem;
   }
